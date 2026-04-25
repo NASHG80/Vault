@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none">
+  <!-- Left Parallelogram -->
+  <polygon points="10,10 60,10 85,60 35,60" fill="#2E3133"/>
+  
+  <!-- Right Parallelogram -->
+  <polygon points="190,10 140,10 115,60 165,60" fill="#2E3133"/>
+  
+  <!-- Center Triangle -->
+  <polygon points="65,60 135,60 100,115" fill="#2E3133"/>
+</svg>
