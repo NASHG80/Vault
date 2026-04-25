@@ -1,0 +1,39 @@
+{
+  "workers": [
+    {
+      "_id": "69e3fa75c8839b0f6675ca44",
+      "user_id": "69e3ee679ac61a7fdc647aa9",
+      "phone": "9579601589",
+      "name": "Jeet Amit Gharat"
+    },
+    {
+      "_id": "69e405f7c8839b0f6675cab3",
+      "user_id": "69e4029d4b3162ed5de3b93e",
+      "phone": "9579601589",
+      "name": "Mohammad Mudassir Ansari"
+    },
+    {
+      "_id": "69e40b1ec8839b0f6675cacf",
+      "user_id": "69e40a54c0e21b223b774590",
+      "phone": "9579601589",
+      "name": "Nash Gonsalves"
+    }
+  ],
+  "job_requests": [
+    {
+      "worker_id": "69e405f7c8839b0f6675cab3",
+      "hirer_id": "69e3b24d0b944a5f9fd04c63",
+      "job": "gg"
+    },
+    {
+      "worker_id": "69e3fa75c8839b0f6675ca44",
+      "hirer_id": "69e3b24d0b944a5f9fd04c63",
+      "job": "ss"
+    },
+    {
+      "worker_id": "69e405f7c8839b0f6675cab3",
+      "hirer_id": "69e3b24d0b944a5f9fd04c63",
+      "job": "ufuf"
+    }
+  ]
+}
