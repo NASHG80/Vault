@@ -6,6 +6,7 @@
   </p>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/FastAPI-0.100+-green?style=flat-square&logo=fastapi" />
@@ -16,7 +17,7 @@
 </p>
 
 ---
-
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/0c0b7358-78fc-4280-aa68-c9e9029395e1" />
 ## 🔥 The Problem
 
 India has **300+ million gig workers** — delivery drivers, ride-share partners, freelance laborers — who collectively generate ₹12 lakh crore annually. Yet:
